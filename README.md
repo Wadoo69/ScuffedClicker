@@ -11,7 +11,8 @@
 ![image](https://github.com/Wadoo69/ScuffedClicker/assets/135997896/fe2d5031-1ac2-4411-9af7-e67d9ffae57d)
 
 ### For the brainlets that don't understand how it works:
-#### WHEN ITS ENABLED HOLD DOWN THE LEFT CLICK.
+#### WHEN ITS ENABLED HOLD DOWN THE LEFT CLICK!!!
+#### IT DOESN'T WORK FOR OTHER GAMES OTHER THAN MINECRAFT!!!
 
 
 
