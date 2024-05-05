@@ -1,0 +1,12 @@
+C:\Users\Radu\source\repos\ScuffedClicker\ScuffedClicker\bin\Release\ScuffedClicker.exe.config
+C:\Users\Radu\source\repos\ScuffedClicker\ScuffedClicker\bin\Release\ScuffedClicker.exe
+C:\Users\Radu\source\repos\ScuffedClicker\ScuffedClicker\bin\Release\ScuffedClicker.pdb
+C:\Users\Radu\source\repos\ScuffedClicker\ScuffedClicker\bin\Release\Siticone.Desktop.UI.dll
+C:\Users\Radu\source\repos\ScuffedClicker\ScuffedClicker\obj\Release\ScuffedClicker.csproj.AssemblyReference.cache
+C:\Users\Radu\source\repos\ScuffedClicker\ScuffedClicker\obj\Release\ScuffedClicker.Form1.resources
+C:\Users\Radu\source\repos\ScuffedClicker\ScuffedClicker\obj\Release\ScuffedClicker.Properties.Resources.resources
+C:\Users\Radu\source\repos\ScuffedClicker\ScuffedClicker\obj\Release\ScuffedClicker.csproj.GenerateResource.cache
+C:\Users\Radu\source\repos\ScuffedClicker\ScuffedClicker\obj\Release\ScuffedClicker.csproj.CoreCompileInputs.cache
+C:\Users\Radu\source\repos\ScuffedClicker\ScuffedClicker\obj\Release\ScuffedC.4C751A37.Up2Date
+C:\Users\Radu\source\repos\ScuffedClicker\ScuffedClicker\obj\Release\ScuffedClicker.exe
+C:\Users\Radu\source\repos\ScuffedClicker\ScuffedClicker\obj\Release\ScuffedClicker.pdb
